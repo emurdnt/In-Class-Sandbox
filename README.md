@@ -17,5 +17,5 @@ public static void Main(string[] args)
 
 I am learning abouut
 
--Creating a git repository (online, and on my computer)
--Synchronizing my git repository on [GitHub] (https://github.com)
+- Creating a git repository (online, and on my computer)
+- Synchronizing my git repository on [GitHub] (https://github.com)
